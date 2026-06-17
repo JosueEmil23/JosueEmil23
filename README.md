@@ -44,8 +44,12 @@ A continuación, puedes ver un resumen dinámico de mi actividad y los lenguajes
 ---
 
 ## 📬 Conéctate conmigo
+
 * **Ubicación:** Trujillo, Perú 🇵🇪
-* Hazme un "Follow" aquí en GitHub para ver mis últimas contribuciones y proyectos.
+* **Contacto Directo:** Envíame un correo haciendo clic [aquí](mailto:gonzalesgutierrezjosueemilio@gmail.com) 📧
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-gonsalez-gutierrez-138101399/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosueEmil23)
 
 <!--
 **JosueEmil23/JosueEmil23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
